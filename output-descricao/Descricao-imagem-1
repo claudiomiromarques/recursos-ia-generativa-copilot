@@ -1,0 +1,21 @@
+A imagem que você enviou é um diagrama intitulado "Tabela de roteamento", que ilustra o roteamento do tráfego da internet dentro de uma infraestrutura de rede. Ela mostra a conexão entre diferentes componentes de rede e a internet. Aqui estão alguns detalhes específicos:
+
+- **VCN (Virtual Cloud Network)**: Localizado no lado esquerdo, contém duas sub-redes: Sub-rede Pública e Sub-rede Privada, ambas representadas por ícones de escudos com padrões internos.
+- **Sub-rede Pública**: Conectada ao Gateway de Internet, com linhas de conexão pontilhadas.
+- **Sub-rede Privada**: Conectada ao Gateway NAT e ao Gateway de Serviço, também com linhas de conexão pontilhadas.
+- **Gateway de Internet**: Representado por um ícone com setas apontando para fora, indicando conectividade com a internet.
+- **Gateway NAT**: Ícone semelhante ao Gateway de Internet, mas com setas apontando para dentro, indicando acesso controlado à internet para usuários da sub-rede privada.
+- **Gateway de Serviço**: Conectado diretamente à Sub-rede Privada e à Rede de Serviços Oracle.
+- **Rede de Serviços Oracle**: Conectada através do Gateway de Serviço e representada por um ícone quadrado contendo formas geométricas.
+- **Armazenamento de Objetos**: Parte da Rede de Serviços Oracle, indicado pela proximidade e elementos de design semelhantes.
+
+No centro do diagrama, há um ícone de globo representando a internet.
+
+Esta imagem ilustra uma tabela de roteamento dentro de uma infraestrutura de rede, mostrando como diferentes sub-redes se conectam à internet e a outros serviços; é relevante para entender a arquitetura de rede e o fluxo de dados dentro desta configuração específica. Espero que isso ajude a esclarecer o conteúdo da imagem! 😊
+
+Origem: conversa com o Bing, 16/03/2024
+(1) https://pt.slideshare.net/MANOEL_VERAS/como-construir-o-cloud-datacenter-com-segurana. https://pt.slideshare.net/MANOEL_VERAS/como-construir-o-cloud-datacenter-com-segurana.
+(2) https://www.bi4all.pt/noticias/blog/qlik-nprinting-para-o-bi-moderno. https://www.bi4all.pt/noticias/blog/qlik-nprinting-para-o-bi-moderno/.
+(3) https://www.azion.com/pt-br/blog/crescente-trafego-e-volume-de-processamento-de-dados-e.... https://www.azion.com/pt-br/blog/crescente-trafego-e-volume-de-processamento-de-dados-e-desafio-para-arquitetura-e-infraestrutura-corporativa-no-brasil/.
+(4) https://www.researchgate.net/figure/Figura-2-Processo-preditivo-de.... https://www.researchgate.net/figure/Figura-2-Processo-preditivo-de-realocacrealocacrealocacao-de-recursos_fig2_229044719.
+(5) www.img.lx.it.pt/~fp/cav/ano2009_2010/Trabalhos_MERC_2010/Artigo_MERC_4/site IPTV.... http://www.img.lx.it.pt/~fp/cav/ano2009_2010/Trabalhos_MERC_2010/Artigo_MERC_4/site%20IPTV/arquitectura.html.
